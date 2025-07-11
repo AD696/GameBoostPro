@@ -1,0 +1,22 @@
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 编辑器和IDE文件
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 依赖项和构建产物
+node_modules/
+dist/
+build/
+
+# 日志文件
+*.log
+npm-debug.log*
+
+# 临时文件
+.tmp/
+temp/ 
